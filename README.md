@@ -1,4 +1,4 @@
-# prismic-demo-html-serializer
+# prismic-demo-route-resolver
 
 A demo website for [Prismic's YouTube channel](https://youtube.com/c/Prismic) to showcase Route Resolver usage.
 
