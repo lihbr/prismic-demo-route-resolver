@@ -8,15 +8,15 @@ const client = createClient("route-n-link-resolver", {
   routes: [
     {
       type: "page",
-      path: "/:uid"
+      path: "/:lang/:uid"
     },
     {
       type: "service",
-      path: "/services/:uid"
+      path: "/:lang/services/:uid"
     },
     {
       type: "post",
-      path: "/post/:taxonomy/:uid",
+      path: "/:lang/post/:taxonomy/:uid",
       resolvers: {
         taxonomy: "taxonomy"
       }
