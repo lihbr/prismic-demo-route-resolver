@@ -1,9 +1,9 @@
 # prismic-demo-html-serializer
 
-A demo website built during Nuxt Framework streams on [Prismic's Twitch channel](https://twitch.tv/prismicio) to showcase HTML serializer usage.
+A demo website for [Prismic's YouTube channel](https://youtube.com/c/Prismic) to showcase Route Resolver usage.
 
-- [✨ &nbsp;Try Prismic](https://prismic.io/pricing?utm_campaign=devexp&utm_source=github&utm_medium=demotwitch)
-- [📚 &nbsp;Prismic Vue documentation](https://prismic.io/docs/technical-reference/prismicio-vue?version=v3&utm_campaign=devexp&utm_source=github&utm_medium=demotwitch)
+- [✨ &nbsp;Try Prismic](https://prismic.io/pricing?utm_campaign=devexp&utm_source=github&utm_medium=demoyoutube)
+- [📚 &nbsp;Prismic Route Resolver documentation](https://prismic.io/docs/core-concepts/link-resolver-route-resolver?utm_campaign=devexp&utm_source=github&utm_medium=demoyoutube#route-resolver)
 
 ## Build Setup
 
